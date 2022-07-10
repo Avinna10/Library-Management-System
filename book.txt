@@ -1,0 +1,6 @@
+Harry Potter,JK Rowling,Fantasy,35,$20
+Small Favors,Erin Craig,Mystery,20,$15
+Broken Glass,Helen Stevenson,Fiction,15,$15
+Catch-22,Joseph Heller,Satire,25,$12
+Darkmans,Nicola Barker,Fiction,22,$20
+Frankenstein,Mary Shelley,Horror,31,$27
